@@ -4,4 +4,11 @@ title: About
 permalink: /about/
 ---
 
-BS in Statistics in Inha Univ.
+**Education**  
+BS in Statistics, Inha University, Incheon
+
+**Research Interests**  
+Statistical Learning · Kernel Method
+
+**Programming**  
+R, Python
