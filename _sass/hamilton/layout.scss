@@ -128,10 +128,9 @@
   }
 
   .current-page {
-      text-decoration: underline !important;
-      text-decoration-thickness: 2px;
-      font-weight: bold;
-      color: #fff;
+      text-decoration: none !important;   /* 취소선 제거 */
+      font-weight: bold !important;       /* 볼드 처리 */
+      color: #fff !important;             /* (선택) 하이라이트 색상 */
   }
 
   @media screen and (min-width: $on-medium) {
